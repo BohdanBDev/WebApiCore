@@ -1,0 +1,15 @@
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\bin\Debug\net6.0\Interngram.Domain.deps.json
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\bin\Debug\net6.0\Interngram.Domain.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\bin\Debug\net6.0\Interngram.Domain.pdb
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\bin\Debug\net6.0\Interngram.Repository.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\bin\Debug\net6.0\Interngram.Repository.pdb
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.csproj.AssemblyReference.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.AssemblyInfoInputs.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.AssemblyInfo.cs
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.csproj.CopyComplete
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\refint\Interngram.Domain.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\Interngram.Domain.pdb
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Domain\obj\Debug\net6.0\ref\Interngram.Domain.dll

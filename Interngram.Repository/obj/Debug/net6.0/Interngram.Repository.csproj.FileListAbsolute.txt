@@ -1,0 +1,12 @@
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\bin\Debug\net6.0\Interngram.Repository.deps.json
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\bin\Debug\net6.0\Interngram.Repository.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\bin\Debug\net6.0\Interngram.Repository.pdb
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.csproj.AssemblyReference.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.AssemblyInfoInputs.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.AssemblyInfo.cs
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\refint\Interngram.Repository.dll
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\Interngram.Repository.pdb
+C:\Users\Hesher\Desktop\Interngram\Interngram\Interngram.Repository\obj\Debug\net6.0\ref\Interngram.Repository.dll
